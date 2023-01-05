@@ -1,0 +1,4 @@
+pandas
+xlrd
+boto3
+psycopg2
